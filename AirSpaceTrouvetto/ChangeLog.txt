@@ -1,0 +1,5 @@
+﻿1.1
+	-Added xml error handling.
+	-Frequency decimal is now "." instead of ",".
+	-Open file menu : .xml filter added.
+	-Sector List added.

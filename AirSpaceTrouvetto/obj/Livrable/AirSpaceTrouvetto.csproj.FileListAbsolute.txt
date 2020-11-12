@@ -1,0 +1,17 @@
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\bin\Livrable\AirSpaceTrouvetto.exe.config
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\bin\Livrable\AirSpaceTrouvetto.exe.manifest
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\bin\Livrable\AirSpaceTrouvetto.application
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\bin\Livrable\AirSpaceTrouvetto.exe
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\MainWindow.g.cs
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\App.g.cs
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto_MarkupCompile.cache
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto_MarkupCompile.lref
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\MainWindow.baml
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.g.resources
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.Properties.Resources.resources
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.csproj.GenerateResource.cache
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.csproj.CoreCompileInputs.cache
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.TrustInfo.xml
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.exe.manifest
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.application
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Livrable\AirSpaceTrouvetto.exe

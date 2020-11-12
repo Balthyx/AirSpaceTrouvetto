@@ -1,0 +1,12 @@
+﻿<Window x:Class="AirSpaceTrouvetto.PrintPreview"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AirSpaceTrouvetto"
+        mc:Ignorable="d"
+        Title="PrintPreview" Height="576" Width="848" ResizeMode="NoResize" Icon="Screenshot_6.png" Visibility="Hidden">
+    <Grid>
+        <Canvas x:Name="Canvas_Preview" Background="White" Width="1754" Height="1240" />
+    </Grid>
+</Window>

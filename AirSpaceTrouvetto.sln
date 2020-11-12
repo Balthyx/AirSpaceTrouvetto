@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirSpaceTrouvetto", "AirSpaceTrouvetto\AirSpaceTrouvetto.csproj", "{6B8F6944-8395-4BD3-8C69-1155799D7EF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Livrable|Any CPU = Livrable|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8F6944-8395-4BD3-8C69-1155799D7EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8F6944-8395-4BD3-8C69-1155799D7EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8F6944-8395-4BD3-8C69-1155799D7EF8}.Livrable|Any CPU.ActiveCfg = Livrable|Any CPU
+		{6B8F6944-8395-4BD3-8C69-1155799D7EF8}.Livrable|Any CPU.Build.0 = Livrable|Any CPU
+		{6B8F6944-8395-4BD3-8C69-1155799D7EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8F6944-8395-4BD3-8C69-1155799D7EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E93950B-074D-41A0-BD09-551A52C56C82}
+	EndGlobalSection
+EndGlobal
