@@ -22,3 +22,5 @@ C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Release\Ai
 C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Release\AirSpaceTrouvetto.application
 C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Release\Window_Flp_QuickEdit.g.cs
 C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Release\Window_Flp_QuickEdit.baml
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Release\PrintPreview.g.cs
+C:\Users\Balthyx\source\repos\AirSpaceTrouvetto\AirSpaceTrouvetto\obj\Release\PrintPreview.baml

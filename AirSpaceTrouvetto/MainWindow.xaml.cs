@@ -209,6 +209,7 @@ namespace AirSpaceTrouvetto
             
 
             Graph exportGraph = new Graph(printPreview.Canvas_Preview, flp);
+            exportGraph.fontSize = 24;
             exportGraph.PaintAll();
 
 

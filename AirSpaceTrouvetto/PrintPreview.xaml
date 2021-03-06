@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="PrintPreview" Height="576" Width="848" ResizeMode="NoResize" Icon="Screenshot_6.png" Visibility="Hidden">
     <Grid>
-        <Canvas x:Name="Canvas_Preview" Background="White" Width="1754" Height="1240" />
+        <Canvas x:Name="Canvas_Preview" Background="White" Width="877" Height="620" />
     </Grid>
 </Window>

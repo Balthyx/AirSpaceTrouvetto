@@ -29,6 +29,8 @@ namespace AirSpaceTrouvetto
         public double pxX;// px density
         public double pxY;
 
+        public byte fontSize = 14;
+
         public Graph(Canvas canvas, FlightPlan flp, float margin = 10)
         {
             this.canvas = canvas;
@@ -186,16 +188,20 @@ namespace AirSpaceTrouvetto
             //CLASS
             Label airClass = new Label
             {
-                Content = sector.airClass
+                Content = sector.airClass,
+                FontSize = fontSize
             };
-            Canvas.SetLeft(airClass,x+width*0.4); Canvas.SetTop(airClass, y + height * 0.5 + 12);
+            
+
+            Canvas.SetLeft(airClass,x+width*0.4); Canvas.SetTop(airClass, y + height * 0.5 + fontSize);
             airClass.Foreground = rect.Stroke;
             canvas.Children.Add(airClass);
 
             //NAME
             Label name = new Label
             {
-                Content = sector.name
+                Content = sector.name,
+                FontSize = fontSize
             };
             Canvas.SetLeft(name, x + width * 0.4); Canvas.SetTop(name, y + height * 0.5);
             name.Foreground = rect.Stroke;
@@ -206,9 +212,10 @@ namespace AirSpaceTrouvetto
             {
                 Label freq = new Label
                 {
-                    Content = sector.freq
+                    Content = sector.freq,
+                    FontSize = fontSize
                 };
-                Canvas.SetLeft(freq, x + width * 0.4); Canvas.SetTop(freq, y + height * 0.5 - 12);
+                Canvas.SetLeft(freq, x + width * 0.4); Canvas.SetTop(freq, y + height * 0.5 - fontSize);
                 freq.Foreground = rect.Stroke;
                 canvas.Children.Add(freq);
             }

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>C:\Users\Balthyx\Dropbox\ASTT\|publish\</PublishUrlHistory>
-    <InstallUrlHistory />
+    <PublishUrlHistory>ftp://pi%40192.168.10.7/webwww/html/ASTT/|ftp://pi%40192.168.10.7/webwww/ASTT/|ftp://pi%40192.168.10.7/|ftp://pi%40192.168.10.7/var/www/html/ASTT/|ftp://pi%40192.168.10.7/./../../var/www/html/ASTT/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.box.cactuspiment.fr/ASTT/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />

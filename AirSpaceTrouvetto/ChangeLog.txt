@@ -3,3 +3,6 @@
 	-Frequency decimal is now "." instead of ",".
 	-Open file menu : .xml filter added.
 	-Sector List added.
+
+1.1.1
+	-Bigger fontsize when printing
